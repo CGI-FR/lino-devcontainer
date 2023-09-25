@@ -10,7 +10,7 @@
             "type": "string",
             "description": "version of the lino's toolbox image",
             "proposals": [
-                "v1.3.0 # (lino:V2.4.0, pimo:v1.19.0)"
+                "v1.3.0"
             ],
             "default": "v1.3.0"
         }
