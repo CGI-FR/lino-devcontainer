@@ -1,0 +1,21 @@
+{
+    "id": "lino",
+    "version": "1.0.0",
+    "name": "LINO",
+    "description": "A LINO workspace with all LINO tools",
+    "documentationURL": "https://github.com/CGI-FR/lino-devcontainer/tree/main/src/lino",
+    "licenseURL": "https://github.com/CGI-FR/lino-devcontainer/blob/main/LICENSE",
+    "options": {
+        "imageVariant": {
+            "type": "string",
+            "description": "version of the lino's toolbox image",
+            "proposals": [
+                "v1.3.0 # (lino:V2.4.0, pimo:v1.19.0)"
+            ],
+            "default": "v1.3.0"
+        }
+    },
+    "platforms": [
+        "Any"
+    ]
+}
