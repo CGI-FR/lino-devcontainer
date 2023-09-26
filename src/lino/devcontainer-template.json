@@ -1,6 +1,6 @@
 {
     "id": "lino",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "LINO",
     "description": "A LINO workspace with all LINO tools",
     "documentationURL": "https://github.com/CGI-FR/lino-devcontainer/tree/main/src/lino",
