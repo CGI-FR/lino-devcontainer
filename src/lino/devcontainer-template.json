@@ -10,9 +10,10 @@
             "type": "string",
             "description": "version of the lino's toolbox image",
             "proposals": [
-                "v1.3.0"
+                "v1.3.0",
+                "v1.4.0"
             ],
-            "default": "v1.3.0"
+            "default": "v1.4.0"
         }
     },
     "platforms": [
