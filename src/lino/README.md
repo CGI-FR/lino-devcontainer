@@ -7,7 +7,7 @@ A LINO workspace with all LINO tools
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| imageVariant | version of the lino's toolbox image | string | v1.4.0 |
+| imageVariant | version of the lino's toolbox image | string | v1.4.1 |
 
 
 
